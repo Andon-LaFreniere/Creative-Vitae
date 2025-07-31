@@ -188,7 +188,7 @@ const ExperienceTracker = () => {
         <div className="flex items-center justify-between mb-6">
           <div>
             <h1 className="text-3xl font-bold text-gray-800 mb-2">
-              My Experience Timeline
+              Creative Vitae
             </h1>
             <p className="text-gray-600">
               Track your work and education journey
@@ -465,7 +465,7 @@ const ExperienceTracker = () => {
 
               {/* "Present" indicator at the top */}
               <div className="absolute top-0 left-0 right-0 text-center">
-                <div className="bg-green-500 text-white px-3 py-1 rounded-full text-sm font-semibold inline-block">
+                <div className="bg-gray-500 text-white px-3 py-1 rounded-full text-sm font-semibold inline-block">
                   Present
                 </div>
               </div>
